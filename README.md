@@ -11,8 +11,11 @@ Simply load 256x256 textures into your build and upscale them to any size in rea
 * Rendering Upscaling (Super-Sampling) (similar FRS or DLSS but fully cross-platform);
 * GPU-Based and cross-platform;
 
+![Unity XScaling Framework](https://github.com/DevsDaddy/UnityXScaling/assets/147835900/b052ad0a-557a-4072-bdfe-f1934f9a3ad0)
+
+
 ## Get Started
-**GameShield** installs into your project as easily as possible - basic installation and configuration takes **only 4 steps**. Below we will consider both **automatic initialization** and **manual configuration**.
+**Unity XScaling** installs into your project as easily as possible - basic installation and configuration takes **only 4 steps**.
 
 **Basic Installation:**
 * Download <a href="https://github.com/DevsDaddy/UnityXScaling/releases">Latest Release from GitHUB</a>;
