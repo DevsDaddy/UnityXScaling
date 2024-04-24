@@ -15,7 +15,7 @@ Simply load 256x256 textures into your build and upscale them to any size in rea
 
 
 ## Get Started
-**GameShield** installs into your project as easily as possible - basic installation and configuration takes **only 4 steps**. Below we will consider both **automatic initialization** and **manual configuration**.
+**Unity XScaling** installs into your project as easily as possible - basic installation and configuration takes **only 4 steps**.
 
 **Basic Installation:**
 * Download <a href="https://github.com/DevsDaddy/UnityXScaling/releases">Latest Release from GitHUB</a>;
