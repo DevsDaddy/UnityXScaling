@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Common
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 2
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 3befb72bc5bcc654ab32f10ae69fcdd1, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: be1e42c0ad2319a41add3e86aac54fcc, type: 3}
+  - {fileID: 21300000, guid: 1f56f3c0894b93b4f89c91ef243d0570, type: 3}
+  - {fileID: 21300000, guid: 1494fc51242eb2f488da2cbc6f83af59, type: 3}
+  - {fileID: 21300000, guid: 7243b3e1923536d4da38362722bd9748, type: 3}
+  - {fileID: 21300000, guid: 19bb16a3474337147a0c26fabc08f9b8, type: 3}
+  - {fileID: 21300000, guid: 408beea3a6db1054b8d8e69b546dfbd1, type: 3}
+  - {fileID: 21300000, guid: 0f11a7f37a31f06439394aacc285d0a0, type: 3}
+  - {fileID: 21300000, guid: eaaf5804b0d5b6f4dbc1425359aaf155, type: 3}
+  - {fileID: 21300000, guid: 12a6d185289bc88418d545c5e0e54813, type: 3}
+  - {fileID: 21300000, guid: c4cc0c77081cdb14eb9713fcb1119ed1, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - logo
+  - spinner
+  - scrollElementHorizontal
+  - circle128
+  - roundedBtn
+  - scrollElementVertical
+  - backdrop
+  - circle64
+  - roundedBlock
+  - shadow1
+  m_Tag: Common
+  m_IsVariant: 0
